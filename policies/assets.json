@@ -1,0 +1,26 @@
+{
+    "SSP.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "SSP", 
+            "name": "SSP.jpg", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "SSP.jpg", 
+        "filename": "asset-v1:IIIT-H+SSP+Anytime+type@asset+block@SSP.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-H", 
+            "SSP", 
+            "thumbnail", 
+            "SSP.jpg", 
+            null
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "course/course": {
+        "course_image": "SSP.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IIITH-ssp-course-ssp"
+            }
+        }, 
+        "display_name": "Speech Signal Processing", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "learning_info": [], 
+        "start": "2017-05-10T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/ssp.xml", 
+                "course/ssp.xml"
+            ]
+        }
+    }
+}

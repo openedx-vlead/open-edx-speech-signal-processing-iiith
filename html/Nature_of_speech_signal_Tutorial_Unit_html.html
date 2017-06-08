@@ -1,1 +1,74 @@
-<h2>Tutorial</h2>
+<ol><ol>
+<li>Obtaining speech signal</li>
+<ul>
+<li>
+<p>Record/load speech signals for heed, head, hod using the provided utility.</p>
+</li>
+</ul>
+<li>To obtain average pitch period</li>
+<ul>
+<li>
+<p>Display the recorded speech waveform.</p>
+<br /> <img alt="$/i/$" src="http://ssp-iiith.vlabs.ac.in/exp03/media/img11.png" style="border: 0px solid; width: 740px; height: 188px;" align="middle" /><i> <br /> <b>Figure 1:</b> Speech waveform for the utterance "heed-head-hod"<br /></i> </li>
+<li>
+<p>Select the vowel segment. A segment of the vowel <span class="MATH">/i/</span> is shown in the Figure 2.</p>
+<p><img alt="$/i/$" src="http://ssp-iiith.vlabs.ac.in/exp03/media/img12.png" style="border: 0px solid; width: 738px; height: 188px;" align="middle" /><br /> <i><b>Figure 2:</b> A part of the vowel /a/ in the speech segment of 'hod'</i></p>
+</li>
+</ul>
+<ul>
+<li>
+<p>The quasi-periodic nature of prominent peaks shown in Figure 2 is due to the regular vibration of the vocal folds.</p>
+</li>
+<li>
+<p>Pitch period (\(T_{0}\)) is measured as the interval between any two successive prominent peaks.</p>
+</li>
+<li>
+<p>The speech signal between two successive prominent peaks corresponds to one pitch cycle.</p>
+</li>
+<li>
+<p>Note the time (in msec) of the pitch period for three or four pitch cycles (say) and measure the average pitch period, preferably in the steady portion of the speech signal as illustrated in Figure 2.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>As pitch period is not constant over the entire vowel segment, make four or five pitch period measurements.</p>
+</li>
+<li>
+<p>Mean of these values gives average pitch period (\(T_{0}\)) and hence fundamental frequency (\(F_{0} = \frac{1}{T_{0}}\)).</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Average pitch period can also be obtained from the autocorrelation sequence of corresponding speech segments. Measure the distance between the peak at zero and the next prominent peak in either the positive or negative delays of the obtained autocorrelation sequence.</p>
+</li>
+</ul>
+</ol></ol>
+<p></p>
+<ol><ol>
+<li>To obtain formant frequencies
+<ul>
+<ul>
+<li>
+<p>Select voiced segment of the recorded speech segment using the provided utility.</p>
+</li>
+<li>
+<p>Figure 3 shows the LP spectrum obtained using Linear prediction analysis of voiced region of speech segment /hod/ with LP order set to 10.</p>
+</li>
+</ul>
+</ul>
+<p><img alt="$/i/$" src="http://ssp-iiith.vlabs.ac.in/exp03/media/img14.png" style="border: 0px solid; width: 491px; height: 427px;" align="middle" /><br /> <i><b>Figure 3:</b> LPC spectrum of a short segment of vowel /a/ in the utterance of 'hod'. The spectrum is obtained using 10<sup>th</sup> order LP analysis. As shown in the figure, the peaks of the LP spectrum represent the formant frequencies. </i></p>
+<ul>
+<li>
+<p>The peaks of the LP spectrum shown in Figure 3 represent the resonant frequencies (also called Formants) of the vocal tract.</p>
+</li>
+<li>
+<p>Repeat the above steps for recorded speech of all vowels.</p>
+</li>
+<li>
+<p>Repeat the above procedure for recorded speech of different speakers.</p>
+</li>
+</ul>
+</li>
+</ol></ol>
+<p></p>
+<p></p>

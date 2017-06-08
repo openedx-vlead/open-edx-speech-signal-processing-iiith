@@ -1,0 +1,15 @@
+<course course_image="SSP.jpg" display_name="Speech Signal Processing" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Manual_speech_signal-to-symbol_transformation"/>
+  <chapter url_name="Speech_production_mechanism"/>
+  <chapter url_name="Nature_of_speech_signal"/>
+  <chapter url_name="Basics_of_DSP"/>
+  <chapter url_name="Short-time_spectrum_analysis_of_speech"/>
+  <chapter url_name="Spectrographic_analysis_of_speech"/>
+  <chapter url_name="Cepstral_analysis_of_speech"/>
+  <chapter url_name="Linear_prediction_analysis_of_speech"/>
+  <chapter url_name="Formant_synthesis_"/>
+  <chapter url_name="Analysis-by-synthesis_of_speech"/>
+  <chapter url_name="15acdf7280e64ba499acc3e436a8d0d3"/>
+  <wiki slug="IIIT-H.SSP.Anytime"/>
+</course>
