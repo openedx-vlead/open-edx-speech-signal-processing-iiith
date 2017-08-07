@@ -12,7 +12,7 @@
         }, 
         "displayname": "SSP.jpg", 
         "filename": "asset-v1:IIIT-H+SSP+Anytime+type@asset+block@SSP.jpg", 
-        "import_path": null, 
+        "import_path": "SSP.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 

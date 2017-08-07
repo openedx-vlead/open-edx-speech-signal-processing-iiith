@@ -41,8 +41,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/ssp.xml", 
-                "course/ssp.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }
