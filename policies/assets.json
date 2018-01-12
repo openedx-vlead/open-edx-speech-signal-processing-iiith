@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "SSP", 
+            "course": "cse16", 
             "name": "SSP.jpg", 
-            "org": "IIIT-H", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "SSP.jpg", 
-        "filename": "asset-v1:IIIT-H+SSP+Anytime+type@asset+block@SSP.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse16+Anytime+type@asset+block@SSP.jpg", 
         "import_path": "SSP.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-H", 
-            "SSP", 
+            "Virtual-Labs", 
+            "cse16", 
             "thumbnail", 
             "SSP.jpg", 
             null
